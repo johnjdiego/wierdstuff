@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Weird Issues Table" max_length="40" name="x_snc_weird_issues_table" type="collection"/>
+</database>
